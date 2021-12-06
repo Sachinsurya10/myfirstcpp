@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+int a,b,c;
+cout<<"Type The Value of A : " <<endl;
+cin>>a;
+cout<<"Type The Value of b : " <<endl;
+cin>>b;
+c=a+b;
+cout<<"The Addition of A and B is = "<<c<<endl;
+return 0;
+}
